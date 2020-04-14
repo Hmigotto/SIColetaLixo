@@ -1,0 +1,9 @@
+Coleta inteligente com GPS e aplicando ideias de cidades inteligentes para melhorar o sistema de colheta atual, com isso teria um mapeamento da cidade
+como ja é feito em SP e nas grandes capitais prevendo rotas e horarios no sistema, assim teria horarios de saida e chegada baseado no tempo percorrido,
+assim como tambem teria um racionamento de combustivel usado para os caminhões de colheta baseado no trajeto e quanto andou, tendo controle de desperdicios
+e maximisando o lucro, alem disso tambem seria bom colocar um sistema de banco de dados que armazena informações como locais de maior necessesida e
+inteligencia artificial para o ajuste das rotas baseado nas reclamações previstas, alem disso caminhões especificos de reciclagem iriam nas areas mais pedidas
+e com maior concentração com mais frequencia ajudando o meio ambiente e facilitando as pessoas atingirem esse mesmo objetivo.
+
+Todas as ideias não possuem fonte.
+
